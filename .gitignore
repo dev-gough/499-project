@@ -1,6 +1,7 @@
 # Ignore the data files
 data/
 Data/
+*.pkl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
